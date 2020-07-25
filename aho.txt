@@ -1,0 +1,4 @@
+git branch -a
+
+切り替え
+git checkout -b remotes/origin/tom
