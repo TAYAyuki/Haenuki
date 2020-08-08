@@ -1,5 +1,7 @@
-sample_submit.csv
-test.csv
-train.csv
-pred.csv
-pred2.csv
+clf3_test_p.csv
+clf6_test_p.csv
+clf12_test_p.csv
+pred3.csv
+tree_clf3.dot
+tree_clf6.dot
+tree_clf12.dot
